@@ -22,7 +22,8 @@ I focused on the basics buidling a bot.
   
   "List 10 queries for various camping sites and their possible responses. For example:
 
-**Query:** Ideally, as close to the beach as possible without being too windy.
+>**Query:** Ideally, as close to the beach as possible without being too windy.
+
 **Response:** Sure. Some of the best coast campgrounds include Big Sur, California, Assateague Island National Seashore, Maryland, and Bahia Honda State Park, Florida. Do you live in the US?"
 
 **Imports:** Mostly from a restaurant bot built for a previous Codecademy final project
