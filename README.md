@@ -11,7 +11,7 @@
 
 **Why a closed-domain architecture:** Simply because I want to make sure that this bot will not generate something too wild (which could happen since I'm new to modeling). 
 
-**Use case(s):** When someone's at a total loss of where to camp, this bot can inform some common factors one might want to consider. 
+**Use case(s):** When someone's at a total loss of where to camp, this bot can inform the decision making. 
 
 **Techniques:** BoW (for intent classification) and Word2Vec (for response selection)
 
