@@ -33,7 +33,7 @@ I focused on the basics buidling a bot.
 Still, two challenges with Pandas and importing. 
 
 * The Pandas issue was with
-  ```
+```
   .replace
 ```
 
