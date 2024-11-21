@@ -33,13 +33,13 @@ I focused on the basics buidling a bot.
 Still, two challenges with Pandas and importing. 
 
 * The Pandas issue was with
-  '''
+  ```
   .replace
-  '''
+```
   This didn't work until I realized I should add:
-'''
+```
    .str. 
-'''
+```
   
 * As for importing, I defined queries and responses in the same file as blank_spot (i.e. category keyword to which the most similar word in a query will be identified and fill the slot in every response), and only the first two worked. The problem disappeared after restarting Jupyter Notebook. 
 
