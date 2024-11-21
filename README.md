@@ -36,7 +36,9 @@ Still, two challenges with Pandas and importing.
   ```
   .replace
 ```
+
   This didn't work until I realized I should add:
+
 ```
    .str. 
 ```
